@@ -18,6 +18,9 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 2. Marco Teorico.
 
+![untitled@2x (9)](https://user-images.githubusercontent.com/85144847/122237479-f9fc5280-ce84-11eb-86d5-c593a64931c6.png)
+
+
 3. Explicación del Laboratorio.
 
 •	Para poder dar inicio a la práctica debemos tener en cuenta que todas las normas de seguridad se estén cumpliendo, una vez todo se encuentre correctamente preparado procederemos a realizar el primer análisis de los nodos basándonos en el circuito que se nos presenta en la práctica.
