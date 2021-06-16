@@ -52,6 +52,8 @@ NOTA: Cada una de las resistencias y fuentes de voltaje están configuradas con 
 
 5. Video de YouTube.
 
+https://www.youtube.com/watch?v=Zm3V6GHI3xU
+
 6. Conclusiones.
 
 •	Para culminar podemos decir que para poder saber la relación que existe entre las corrientes que entran a un nodo es igual a las que salen se tuvimos que hacer un cálculo y énfasis enorme donde nos dimos cuenta que si cumplen dicha relación por sus respectivas sumatorias de cada rama.
