@@ -20,7 +20,33 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 3. Explicación del Laboratorio.
 
-	Para poder dar inicio a la práctica debemos tener en cuenta que todas las normas de seguridad se estén cumpliendo, una vez todo se encuentre correctamente preparado procederemos a realizar el primer análisis de los nodos basándonos en el circuito que se nos presenta en la práctica.
+•	Para poder dar inicio a la práctica debemos tener en cuenta que todas las normas de seguridad se estén cumpliendo, una vez todo se encuentre correctamente preparado procederemos a realizar el primer análisis de los nodos basándonos en el circuito que se nos presenta en la práctica.
+
+![image](https://user-images.githubusercontent.com/85144847/122157933-5afa3b00-ce31-11eb-8b1a-3ef7ff1c60b4.png)
+
+•	Una vez que realicemos el primer análisis pasaremos a separar cada parte que forma nuestro circuito, dentro del circuito encontramos que hay 5 Resistencias y 2 fuentes de poder en ambos extremos del circuito, referente al análisis de nodos encontramos 4 nodos principales. 
+
+![image](https://user-images.githubusercontent.com/85144847/122157963-69e0ed80-ce31-11eb-938d-280ea7962d65.png)
+
+•	Una vez que comprobamos que poseemos todos y cada uno de los materiales del circuito procederemos a replicarlo en nuestra simulación por lo que esta vez nos volveremos a apoyar de la página web Tinkercad quien nos permite simular circuitos de manera online. 
+
+![image](https://user-images.githubusercontent.com/85144847/122158003-7d8c5400-ce31-11eb-8d0e-9c6dd95cd402.png)
+
+NOTA: Cada una de las resistencias y fuentes de voltaje están configuradas con el valor correspondiente conforme nos indica el diagrama esquemático por lo que las mediciones tomadas serán muy precisas.
+
+•	Ahora procederemos a realizar las mediciones de voltaje en cada resistor para esto debemos tener en cuenta que la resistencia no tiene polaridad por lo que el multímetro se conectara en paralelo a la resistencia obteniendo los siguientes datos. 
+
+![Captura de pantalla (1202)](https://user-images.githubusercontent.com/85144847/122158200-d65bec80-ce31-11eb-9e0d-7c224c026217.png)
+
+•	Con los datos de los voltajes de cada resistencia procederemos a realizar ahora las mediciones de las corrientes en cada una de las resistencias para esto debemos tener en cuenta que la resistencia no tiene polaridad por lo que el amperímetro se conectara en serie con la resistencia.
+
+![image](https://user-images.githubusercontent.com/85144847/122158232-e7a4f900-ce31-11eb-8387-3d6a34f04bf5.png)
+
+•	Una antesala al proceso matemático se realizará al momento de analizar las intensidades de las tres mallas, para el cálculo de sus respectivas intensidades por rama diremos lo siguiente: 
+
+![Captura de pantalla (1242)](https://user-images.githubusercontent.com/85144847/122158317-16bb6a80-ce32-11eb-9b2f-6137a8c7a894.png)
+
+•	Una vez ya tomados todos los datos y mediciones procederemos a comparar con los calculados teniendo en cuenta el posible error de medición o calculo ya que esta es una simulación en un ambiente controlado e ideal por lo que el valor de error será mínimo a diferencia de lo podríamos encontrar en un ambiente real tras analizar las diferentes mallas que encontraremos en el circuito.
 
 4. Respuesta a Interrogantes y Calculo del Error.
 
