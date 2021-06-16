@@ -26,4 +26,25 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 6. Conclusiones.
 
+•	Para culminar podemos decir que para poder saber la relación que existe entre las corrientes que entran a un nodo es igual a las que salen se tuvimos que hacer un cálculo y énfasis enorme donde nos dimos cuenta que si cumplen dicha relación por sus respectivas sumatorias de cada rama.
+
+•	Como resultado podemos decir que se pudo apreciar y aplicar el correcto uso de los instrumentos de medición en la práctica esto lo logramos debido a que nos guiamos correctamente con las indicaciones indicadas sobre la ley de corrientes de Kirchhoff.
+
+•	Finalmente pudimos comparar cada dato obtenido analíticamente como simulado diciendo que existen un porcentaje de error de un 0.01 % este porcentaje logramos decir que es muy bueno ya que fuimos cuidadosos en cada calculo obtenido y utilizando el mayor número de cifras posibles 
+
 7. Bibliografia.
+
+•	Análisis de Circuitos – Robbins.pdf
+
+•	Cuaderno de circuitos eléctricos I – Ing. Wilmer Loza
+
+•	Cuaderno de Electrotecnia I – Ing. Wilmer Loza
+
+•	Folleto de Analisis de Circuitos – Ing. Wilmer Loza
+
+•	Cuaderno de Instalaciones eléctricas en CC – Lic. Paul Granizo 
+
+
+
+
+
