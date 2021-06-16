@@ -64,6 +64,8 @@ NOTA: Cada una de las resistencias y fuentes de voltaje están configuradas con 
 
 •	Análisis de Circuitos – Robbins.pdf
 
+•	Aplicacion Photomath
+
 •	Cuaderno de circuitos eléctricos I – Ing. Wilmer Loza
 
 •	Cuaderno de Electrotecnia I – Ing. Wilmer Loza
