@@ -50,6 +50,14 @@ NOTA: Cada una de las resistencias y fuentes de voltaje están configuradas con 
 
 4. Respuesta a Interrogantes y Calculo del Error.
 
+![laboratorio (2)-1](https://user-images.githubusercontent.com/85144847/122233343-99b7e180-ce81-11eb-8a99-f696e817912f.png)
+![laboratorio (2)-2](https://user-images.githubusercontent.com/85144847/122233348-9a507800-ce81-11eb-90c2-013e74f04232.png)
+![laboratorio (2)-3](https://user-images.githubusercontent.com/85144847/122233349-9ae90e80-ce81-11eb-8c19-0a702f172d6e.png)
+![laboratorio (2)-4](https://user-images.githubusercontent.com/85144847/122233350-9ae90e80-ce81-11eb-9166-5dabf09fd2e5.png)
+![laboratorio (2)-5](https://user-images.githubusercontent.com/85144847/122233351-9b81a500-ce81-11eb-8987-8437f8561c4b.png)
+![laboratorio (2)-6](https://user-images.githubusercontent.com/85144847/122233354-9b81a500-ce81-11eb-85d6-f845f2632873.png)
+![laboratorio (2)-7](https://user-images.githubusercontent.com/85144847/122233357-9c1a3b80-ce81-11eb-8331-3cbc0339480c.png)
+
 5. Video de YouTube.
 
 https://www.youtube.com/watch?v=Zm3V6GHI3xU
