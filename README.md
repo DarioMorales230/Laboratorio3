@@ -20,6 +20,8 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 3. Explicación del Laboratorio.
 
+	Para poder dar inicio a la práctica debemos tener en cuenta que todas las normas de seguridad se estén cumpliendo, una vez todo se encuentre correctamente preparado procederemos a realizar el primer análisis de los nodos basándonos en el circuito que se nos presenta en la práctica.
+
 4. Respuesta a Interrogantes y Calculo del Error.
 
 5. Video de YouTube.
